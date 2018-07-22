@@ -1,0 +1,10 @@
+C:\Users\Zaib\source\repos\ConsoleDataBaseRead\ConsoleDataBaseRead\bin\Debug\ConsoleDataBaseRead.exe.config
+C:\Users\Zaib\source\repos\ConsoleDataBaseRead\ConsoleDataBaseRead\bin\Debug\ConsoleDataBaseRead.exe
+C:\Users\Zaib\source\repos\ConsoleDataBaseRead\ConsoleDataBaseRead\bin\Debug\ConsoleDataBaseRead.pdb
+C:\Users\Zaib\source\repos\ConsoleDataBaseRead\ConsoleDataBaseRead\bin\Debug\MySql.Data.dll
+C:\Users\Zaib\source\repos\ConsoleDataBaseRead\ConsoleDataBaseRead\bin\Debug\MySql.Data.xml
+C:\Users\Zaib\source\repos\ConsoleDataBaseRead\ConsoleDataBaseRead\obj\Debug\ConsoleDataBaseRead.csprojAssemblyReference.cache
+C:\Users\Zaib\source\repos\ConsoleDataBaseRead\ConsoleDataBaseRead\obj\Debug\ConsoleDataBaseRead.csproj.CoreCompileInputs.cache
+C:\Users\Zaib\source\repos\ConsoleDataBaseRead\ConsoleDataBaseRead\obj\Debug\ConsoleDataBaseRead.csproj.CopyComplete
+C:\Users\Zaib\source\repos\ConsoleDataBaseRead\ConsoleDataBaseRead\obj\Debug\ConsoleDataBaseRead.exe
+C:\Users\Zaib\source\repos\ConsoleDataBaseRead\ConsoleDataBaseRead\obj\Debug\ConsoleDataBaseRead.pdb
